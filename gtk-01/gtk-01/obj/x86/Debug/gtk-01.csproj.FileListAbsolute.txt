@@ -1,0 +1,6 @@
+/home/archman/workspace/dotnet/gtk-01/gtk-01/gtk-01/bin/Debug/gtk-01.exe
+/home/archman/workspace/dotnet/gtk-01/gtk-01/gtk-01/bin/Debug/gtk-01.pdb
+/home/archman/workspace/dotnet/gtk-01/gtk-01/gtk-01/obj/x86/Debug/gtk-01.csproj.AssemblyReference.cache
+/home/archman/workspace/dotnet/gtk-01/gtk-01/gtk-01/obj/x86/Debug/gtk-01.csproj.CoreCompileInputs.cache
+/home/archman/workspace/dotnet/gtk-01/gtk-01/gtk-01/obj/x86/Debug/gtk-01.exe
+/home/archman/workspace/dotnet/gtk-01/gtk-01/gtk-01/obj/x86/Debug/gtk-01.pdb
